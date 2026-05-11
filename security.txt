@@ -1,5 +1,5 @@
-Contact: security@heizenji.com
+Contact: security@tejin1703.com
 Encryption: TLS 1.3 via GitHub Pages (HTTPS enforced)
 Policy: This is a static portfolio site. No user data is stored. All forms use third‑party HTTPS endpoints (Formspree). No server‑side code runs.
-Preferred-Contact: security@heizenji.com
+Preferred-Contact: security@tejin1703.com
 Expires: 2027-01-01

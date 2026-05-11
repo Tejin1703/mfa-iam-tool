@@ -37,7 +37,7 @@ The project is designed to be **stand‑alone** (run locally) but can also be re
 ## Setup
 ```bash
 # 1️⃣ Clone the repo
-git clone https://github.com/Heizenji/mfa-iam-tool.git
+git clone https://github.com/Tejin1703/mfa-iam-tool.git
 cd mfa_project
 
 # 2️⃣ Create a virtual environment & install deps
